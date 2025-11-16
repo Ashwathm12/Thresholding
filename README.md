@@ -1,4 +1,4 @@
-# THRESHOLDING
+# Thresholding
 ## Aim:
 To segment the image using global thresholding, adaptive thresholding and Otsu's thresholding using python and OpenCV.
 
@@ -68,19 +68,23 @@ display_img(otsu_thresholded)
 
 ### Original Image
 
-![alt text](image.png)
+<img width="638" height="463" alt="image" src="https://github.com/user-attachments/assets/86e573d4-5e60-4b2c-a975-d404e8b34b47" />
+
 
 ### Global Thresholding
 
-![alt text](image-1.png)
+<img width="642" height="463" alt="image" src="https://github.com/user-attachments/assets/9a198afa-5542-4d7d-9bf3-fc66a18d8057" />
+
 
 ### Adaptive Thresholding
 
-![alt text](image-2.png)
+<img width="638" height="462" alt="image" src="https://github.com/user-attachments/assets/84040a83-2cf6-478b-b9e2-606e6b7f0529" />
+
 
 ### Otsu's Method
 
-![alt text](image-3.png)
+<img width="638" height="462" alt="image" src="https://github.com/user-attachments/assets/3bab2a40-cc6f-4989-8cb3-e5ae40014527" />
+
 
 ## Result:
 Thus the images are segmented using global thresholding, adaptive thresholding and optimum global thresholding using python and OpenCV.
